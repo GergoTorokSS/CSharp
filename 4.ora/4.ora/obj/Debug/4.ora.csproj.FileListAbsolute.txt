@@ -1,0 +1,8 @@
+C:\Users\gerih\source\repos\Python\3.ora\4.ora\4.ora\bin\Debug\4.ora.exe.config
+C:\Users\gerih\source\repos\Python\3.ora\4.ora\4.ora\bin\Debug\4.ora.exe
+C:\Users\gerih\source\repos\Python\3.ora\4.ora\4.ora\bin\Debug\4.ora.pdb
+C:\Users\gerih\source\repos\Python\3.ora\4.ora\4.ora\obj\Debug\4.ora.csproj.AssemblyReference.cache
+C:\Users\gerih\source\repos\Python\3.ora\4.ora\4.ora\obj\Debug\4.ora.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerih\source\repos\Python\3.ora\4.ora\4.ora\obj\Debug\4.ora.csproj.CoreCompileInputs.cache
+C:\Users\gerih\source\repos\Python\3.ora\4.ora\4.ora\obj\Debug\4.ora.exe
+C:\Users\gerih\source\repos\Python\3.ora\4.ora\4.ora\obj\Debug\4.ora.pdb
